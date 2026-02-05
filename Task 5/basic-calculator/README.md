@@ -1,16 +1,71 @@
-# React + Vite
+# Basic Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive calculator application built with React and Vite. This calculator provides essential arithmetic operations with a clean and intuitive user interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✨ Clean and modern user interface
+- ➕ Basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
+- 🔢 Support for decimal numbers
+- 🗑️ Delete last digit (DEL button)
+- 🔄 Clear all (AC button)
+- 📱 Responsive design
+- ⚡ Fast and lightweight with Vite
+- 🎨 Styled with custom CSS
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React** (v18.2.0) - JavaScript library for building user interfaces
+- **Vite** (v4.4.5) - Next generation frontend tooling for fast development
+- **ESLint** - Code linting and quality assurance
+- **CSS3** - Styling and layout
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd basic-calculator
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+## Usage
+
+### Development Mode
+
+Start the development server with hot module replacement:
+```bash
+npm run dev
+```
+
+The application will be available at `http://localhost:5173`
+
+### Build for Production
+
+Create an optimized production build:
+```bash
+npm run build
+```
+
+## Project Structure
+
+```
+basic-calculator/
+├── public/          # Static assets
+├── src/
+│   ├── App.jsx      # Main calculator component
+│   ├── App.css      # Calculator styling
+│   ├── main.jsx     # Application entry point
+│   └── index.css    # Global styles
+├── index.html       # HTML template
+├── package.json     # Project dependencies and scripts
+└── vite.config.js   # Vite configuration
+```
+
+## Contributing
+
+Feel free to submit issues and enhancement requests!

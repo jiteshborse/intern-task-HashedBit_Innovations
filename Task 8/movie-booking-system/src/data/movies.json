@@ -1,0 +1,405 @@
+[
+    {
+        "id": 1,
+        "title": "Dune: Part Two",
+        "language": "English",
+        "poster": "/posters/dune2.jfif",
+        "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+        "duration": "2h 46m",
+        "genre": [
+            "Sci-Fi",
+            "Adventure",
+            "Drama"
+        ],
+        "rating": 8.7,
+        "releaseDate": "2024-03-01",
+        "director": "Denis Villeneuve",
+        "cast": [
+            "Timothée Chalamet",
+            "Zendaya",
+            "Rebecca Ferguson"
+        ],
+        "showTimes": [
+            "10:00 AM",
+            "1:30 PM",
+            "5:00 PM",
+            "8:30 PM"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Jawan",
+        "language": "Hindi",
+        "poster": "/posters/jawan.jfif",
+        "description": "A prison warden with a mysterious past sets out to reform the system while keeping a promise made years ago.",
+        "duration": "2h 49m",
+        "genre": [
+            "Action",
+            "Thriller",
+            "Drama"
+        ],
+        "rating": 7.5,
+        "releaseDate": "2023-09-07",
+        "director": "Atlee",
+        "cast": [
+            "Shah Rukh Khan",
+            "Nayanthara",
+            "Vijay Sethupathi"
+        ],
+        "showTimes": [
+            "11:00 AM",
+            "2:30 PM",
+            "6:00 PM",
+            "9:30 PM"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Oppenheimer",
+        "language": "English",
+        "poster": "/posters/oppenheimer.jfif",
+        "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+        "duration": "3h",
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "rating": 8.3,
+        "releaseDate": "2023-07-21",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Cillian Murphy",
+            "Emily Blunt",
+            "Matt Damon"
+        ],
+        "showTimes": [
+            "10:30 AM",
+            "2:00 PM",
+            "5:30 PM",
+            "9:00 PM"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Animal",
+        "language": "Hindi",
+        "poster": "/posters/animal.jfif",
+        "description": "A son undergoes a remarkable transformation as his bond with his father is tested.",
+        "duration": "3h 21m",
+        "genre": [
+            "Action",
+            "Drama",
+            "Crime"
+        ],
+        "rating": 6.7,
+        "releaseDate": "2023-12-01",
+        "director": "Sandeep Reddy Vanga",
+        "cast": [
+            "Ranbir Kapoor",
+            "Rashmika Mandanna",
+            "Anil Kapoor"
+        ],
+        "showTimes": [
+            "12:00 PM",
+            "3:30 PM",
+            "7:00 PM",
+            "10:30 PM"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "The Marvels",
+        "language": "English",
+        "poster": "/posters/marvels.jfif",
+        "description": "Carol Danvers teams up with two other superheroes to save the universe.",
+        "duration": "1h 45m",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "rating": 5.8,
+        "releaseDate": "2023-11-10",
+        "director": "Nia DaCosta",
+        "cast": [
+            "Brie Larson",
+            "Teyonah Parris",
+            "Iman Vellani"
+        ],
+        "showTimes": [
+            "11:30 AM",
+            "3:00 PM",
+            "6:30 PM",
+            "10:00 PM"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "12th Fail",
+        "language": "Hindi",
+        "poster": "/posters/12thfail.jfif",
+        "description": "The real-life story of IPS officer Manoj Kumar Sharma who overcame extreme poverty to become an officer.",
+        "duration": "2h 27m",
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "rating": 9.1,
+        "releaseDate": "2023-10-27",
+        "director": "Vidhu Vinod Chopra",
+        "cast": [
+            "Vikrant Massey",
+            "Medha Shankr",
+            "Anant V Joshi"
+        ],
+        "showTimes": [
+            "10:00 AM",
+            "1:00 PM",
+            "4:00 PM",
+            "7:00 PM"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Barbie",
+        "language": "English",
+        "poster": "/posters/barbie.jfif",
+        "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land.",
+        "duration": "1h 54m",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "rating": 6.9,
+        "releaseDate": "2023-07-21",
+        "director": "Greta Gerwig",
+        "cast": [
+            "Margot Robbie",
+            "Ryan Gosling",
+            "America Ferrera"
+        ],
+        "showTimes": [
+            "11:00 AM",
+            "2:00 PM",
+            "5:00 PM",
+            "8:00 PM"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Pathaan",
+        "language": "Hindi",
+        "poster": "/posters/pathaan.jfif",
+        "description": "An Indian spy takes on the leader of a gang of mercenaries who have a heinous plot for his homeland.",
+        "duration": "2h 26m",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "rating": 6.6,
+        "releaseDate": "2023-01-25",
+        "director": "Siddharth Anand",
+        "cast": [
+            "Shah Rukh Khan",
+            "Deepika Padukone",
+            "John Abraham"
+        ],
+        "showTimes": [
+            "12:30 PM",
+            "3:30 PM",
+            "6:30 PM",
+            "9:30 PM"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Mission: Impossible - Dead Reckoning",
+        "language": "English",
+        "poster": "/posters/mission-impossible.jfif",
+        "description": "Ethan Hunt and his IMF team must track down a terrifying new weapon that threatens humanity.",
+        "duration": "2h 43m",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "rating": 7.7,
+        "releaseDate": "2023-07-12",
+        "director": "Christopher McQuarrie",
+        "cast": [
+            "Tom Cruise",
+            "Hayley Atwell",
+            "Ving Rhames"
+        ],
+        "showTimes": [
+            "10:15 AM",
+            "1:45 PM",
+            "5:15 PM",
+            "8:45 PM"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Gadar 2",
+        "language": "Hindi",
+        "poster": "/posters/gadar2.jfif",
+        "description": "In 1971, Tara Singh returns to Pakistan to bring his son, Charanjeet, back home.",
+        "duration": "2h 50m",
+        "genre": [
+            "Action",
+            "Drama",
+            "Historical"
+        ],
+        "rating": 6.0,
+        "releaseDate": "2023-08-11",
+        "director": "Anil Sharma",
+        "cast": [
+            "Sunny Deol",
+            "Ameesha Patel",
+            "Utkarsh Sharma"
+        ],
+        "showTimes": [
+            "11:15 AM",
+            "2:45 PM",
+            "6:15 PM",
+            "9:45 PM"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Spider-Man: Across the Spider-Verse",
+        "language": "English",
+        "poster": "/posters/spiderman.jfif",
+        "description": "Miles Morales catapults across the multiverse, where he encounters a team of Spider-People.",
+        "duration": "2h 20m",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "rating": 8.6,
+        "releaseDate": "2023-06-02",
+        "director": "Joaquim Dos Santos",
+        "cast": [
+            "Shameik Moore",
+            "Hailee Steinfeld",
+            "Oscar Isaac"
+        ],
+        "showTimes": [
+            "10:45 AM",
+            "2:15 PM",
+            "5:45 PM",
+            "9:15 PM"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Rocky Aur Rani Kii Prem Kahaani",
+        "language": "Hindi",
+        "poster": "/posters/rocky-rani.jfif",
+        "description": "Two individuals from contrasting backgrounds fall in love but must face their families' prejudices.",
+        "duration": "2h 48m",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "rating": 7.5,
+        "releaseDate": "2023-07-28",
+        "director": "Karan Johar",
+        "cast": [
+            "Ranveer Singh",
+            "Alia Bhatt",
+            "Dharmendra"
+        ],
+        "showTimes": [
+            "12:15 PM",
+            "3:45 PM",
+            "7:15 PM",
+            "10:45 PM"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "John Wick: Chapter 4",
+        "language": "English",
+        "poster": "/posters/johnwick4.jfif",
+        "description": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, he must face a new enemy.",
+        "duration": "2h 49m",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "rating": 7.7,
+        "releaseDate": "2023-03-24",
+        "director": "Chad Stahelski",
+        "cast": [
+            "Keanu Reeves",
+            "Donnie Yen",
+            "Bill Skarsgård"
+        ],
+        "showTimes": [
+            "11:45 AM",
+            "3:15 PM",
+            "6:45 PM",
+            "10:15 PM"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Salaar: Part 1 - Ceasefire",
+        "language": "Hindi",
+        "poster": "/posters/salaar.jfif",
+        "description": "A gang leader tries to keep a promise made to his dying friend and takes on the other criminal gangs.",
+        "duration": "2h 55m",
+        "genre": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "rating": 7.2,
+        "releaseDate": "2023-12-22",
+        "director": "Prashanth Neel",
+        "cast": [
+            "Prabhas",
+            "Prithviraj Sukumaran",
+            "Shruti Haasan"
+        ],
+        "showTimes": [
+            "10:30 AM",
+            "2:00 PM",
+            "5:30 PM",
+            "9:00 PM"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Fast X",
+        "language": "English",
+        "poster": "/posters/fastx.jfif",
+        "description": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+        "duration": "2h 21m",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "rating": 5.8,
+        "releaseDate": "2023-05-19",
+        "director": "Louis Leterrier",
+        "cast": [
+            "Vin Diesel",
+            "Michelle Rodriguez",
+            "Jason Statham"
+        ],
+        "showTimes": [
+            "12:45 PM",
+            "4:15 PM",
+            "7:45 PM",
+            "11:15 PM"
+        ]
+    }
+]
